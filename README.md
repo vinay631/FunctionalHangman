@@ -1,6 +1,6 @@
 ## Functional Hangman
 
-Hangman game built using React and Scala with the help of PlayFramework.
+Hangman game built using React and Scala and PlayFramework.
 
 ### Starting the game
 
